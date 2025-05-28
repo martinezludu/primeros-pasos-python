@@ -34,3 +34,11 @@ Cada funcionalidad está implementada como una función separada, alojada en un 
 ```bash
 git clone https://github.com/martinezludu/primeros-pasos-python.git
 cd primeros-pasos-python
+
+
+
+✍️ Autor
+Iñaki Martinez Ludueña
+Estudiante de Lic. en Sistemas y apasionado por la programación y la tecnología.
+📫 Contacto: linkedin.com/in/iñakimartinezl/
+
